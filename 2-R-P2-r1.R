@@ -41,3 +41,6 @@ cacheSolve <- function(x, ...) {
   #print inverse matrix to console
   m
 }
+
+
+
